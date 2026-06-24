@@ -1,4 +1,4 @@
-# Sample Code - Project Management Integration Platform
+#  Project Management Integration Platform
 
 A full-stack application demonstrating integration between GitHub and Jira for seamless project management and issue tracking.
 
